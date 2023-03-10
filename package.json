@@ -1,5 +1,5 @@
 {
-  "name": "hamid-calc",
+  "name": "hamid-calculator",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,13 @@
   "devDependencies": {
     "@types/inquirer": "^9.0.3"
   },
-  "description": "calculator using inquirer"
+  "description": "calculator using typescript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamidAliZain/calculator-with-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HamidAliZain/calculator-with-typescript/issues"
+  },
+  "homepage": "https://github.com/HamidAliZain/calculator-with-typescript#readme"
 }
